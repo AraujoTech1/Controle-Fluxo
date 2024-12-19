@@ -12,9 +12,9 @@ O objetivo é criar um sistema contador que recebe dois números inteiros como p
 
 ## Tecnologias Utilizadas
 
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" width="150" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" width="150" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="150" />
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Testes
 
