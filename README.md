@@ -10,14 +10,22 @@ O objetivo é criar um sistema contador que recebe dois números inteiros como p
 - Lança uma exceção personalizada (ParametrosInvalidosException) caso a validação falhe.
 - Exibe no console uma sequência numérica baseada na diferença entre os dois números.
 
-## Tecnologias Utilizadas
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ## Testes
 
 Teste Funcional:
 - Cenário 1: Entrada válida com o primeiro número menor que o segundo. Resultado esperado: impressão da sequência numérica.
 - Cenário 2: Entrada inválida com o primeiro número maior ou igual ao segundo. Resultado esperado: mensagem de exceção.
+
+## Tecnologias Utilizadas
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+---
+<p align="right">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
+</p>
